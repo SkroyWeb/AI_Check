@@ -1,0 +1,46 @@
+THE EDTECH FIELD IN LATE 2026
+=============================
+
+MARKET SIZE AND THE MONEY PARADOX
+---------------------------------
+Market-research firms disagree widely on how big EdTech is, because each defines it differently. One estimate puts the global market at roughly $189 billion in 2025, heading toward $215 billion in 2026, while IMARC has it at $279.8 billion in 2025. Most forecasts agree on direction: double-digit annual growth through the early 2030s, with K-12 as the largest segment and North America the leading region. One investor note stresses that EdTech is no longer a cyclical pandemic story.
+
+Revenue is growing, but venture funding is not. Funding hit $14.5B in 2020 and $19.4B in 2021, then collapsed. HolonIQ counted $2.6 billion in 2025, up roughly 11% from 2024. The weakness continued into 2026: only $1 billion in the first half, down 25.7% year on year, with deal counts steady but cheques smaller. Investors are being far pickier, and general AI platforms are pulling away the late-stage money that once went to EdTech leaders.
+
+
+WHERE THE ACTION IS
+-------------------
+AI inside institutional workflows. Funding is concentrating around systems architecture, knowledge, assessment, and operations, with agentic AI embedded directly in daily work. Teacher-facing tools are doing especially well: MagicSchool and Brisk Teaching win district contracts faster than student-facing tutors because administrators control the budget.
+
+Workforce and skills training. More than 70% of Q1 2026 edtech venture funding went to workforce training. Skills-based micro-credentials, reskilling, and employability are where employers are actually paying.
+
+Fading ideas. One 2026 trend review lists blockchain credentialing, full-classroom VR, and the "chatbot-as-tutor" pitch as losing steam. Momentum remains in adaptive learning, AI-assisted teaching and grading, accessibility technology, and student-data security.
+
+
+LESSONS FROM THE BIG FAILURES
+-----------------------------
+The cautionary tale is BYJU'S, once India's most valuable startup. It was fueled by free capital from the zero-interest-rate era rather than steady organic growth, and went on an acquisition spree. A broader point from the Indian EdTech crash is that early on, the sector had very low entry barriers and low working capital needs, so competition surged and margins collapsed. Analysts at Cornell also note that building educational systems takes time, money, and close working relationships between parents, teachers, and the governments that pay for most of it. The takeaway is that EdTech punishes aggressive sales and fast scaling, and rewards trust and demonstrated learning outcomes.
+
+
+HOW TO START WITH LITTLE CAPITAL
+--------------------------------
+The market conditions above shape the strategy, and this part is my own analysis rather than something from the research.
+
+1. Go narrow and painful. Don't try to be "a better learning platform." Pick one specific user and one specific problem, such as exam prep for one subject, report-card comments for teachers, or admin paperwork for school offices. Big players ignore niches, and you can own one with a tiny team.
+
+2. Sell to people who hold budgets and feel pain. Teachers, schools, training companies, and employers pay more reliably than students or parents. Student-facing consumer apps usually need heavy advertising spend, which is exactly what you don't have.
+
+3. Validate before you build. Talk to 20 to 30 potential users. Then deliver the solution manually, using spreadsheets, forms, WhatsApp, or a simple no-code tool, and see whether anyone will pay. Pre-sales or paid pilots are the strongest signal.
+
+4. Build lean with modern tools. AI coding assistants, no-code platforms, and off-the-shelf AI models let a solo founder ship a working product cheaply. The danger is that anything easy to build is easy to copy, so your edge must come from distribution, trust, and domain knowledge rather than the software alone.
+
+5. Fund yourself with service-first revenue. Run cohort-based courses, tutoring, consulting, or custom training while you learn what customers want, then turn the repeatable parts into software. This avoids dependence on venture capital, which is scarce right now.
+
+6. Look at non-dilutive money. Some funders back early education ventures with grants rather than equity. One investor roundup lists NewSchools Venture Fund as giving K-12 innovation grants of about $150K-$250K. Startup competitions, accelerators, and government innovation schemes are other options worth checking.
+
+7. Take trust and compliance seriously from day one. Schools care about student-data privacy, accessibility, and evidence that your product works. A small, honest pilot with measurable results will open doors that marketing never will.
+
+8. Expect slow sales cycles. Institutional buyers move on budget cycles and committee approvals. Start with free or low-cost pilots in a few friendly institutions, collect testimonials and data, then price properly.
+
+
+After Edit
